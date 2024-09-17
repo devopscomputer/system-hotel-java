@@ -6,11 +6,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/pumba-dev/pumba-dev-website?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/pumba-dev/pumba-dev-website?style=for-the-badge)
 
-<h2 align="center">☕ Projeto Em Desenvolvimento</h2>
+<h2 align="center">☕ Projeto Sistema de Hotel JavaScript - Utilizando JavaSwing - MongoDB © 2022 PauloUI Developer /h2>
 
 <br />
-
-<img src="landing-page-prototype.png" alt="Página Inicial da Aplicação Web" />
 
 
 
