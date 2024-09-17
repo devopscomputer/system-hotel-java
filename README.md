@@ -6,7 +6,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/pumba-dev/pumba-dev-website?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/github/issues-pr/pumba-dev/pumba-dev-website?style=for-the-badge)
 
-<h2 align="center">☕ Projeto Sistema de Hotel JavaScript - Utilizando JavaSwing - MongoDB © 2022 PauloUI Developer /h2>
+<h2 align="center">☕ Projeto Sistema de Hotel JavaScript - Utilizando JavaSwing - MongoDB 
+  © 2022 PauloUI Developer </h2>
 
 <br />
 
@@ -18,7 +19,7 @@
 
 🚧 O projeto ainda está em progresso e as features já desenvolvidas são as seguintes:
 
-- [x] Criar Estrutura do JAVA e CSS.
+- [x] Criar Estrutura do JAVASwing e interface do usuário Utilizando o IDE Netbeans.
 - [x] Logica de Banco de dados, Id user utilizando MongoDB.
 - [x] Requisição de Repositórios da API do GitHub.
 - [x] Logica de Check-in e Check-out.
